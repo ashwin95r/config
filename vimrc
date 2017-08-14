@@ -474,4 +474,3 @@ augroup MyQFCommand
 au!
 au FileType qf nnoremap <buffer> <CR> <CR>mt:SignatureRefresh<CR>zz<C-W>p
 augroup END
-om/junegunn/vim1
